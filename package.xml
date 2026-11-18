@@ -29,7 +29,7 @@
 -->
 
 <package format="2">
-  <name>ceres-solver</name>
+  <name>ceres_solver</name>
   <version>2.2.0</version>
   <description>A large scale non-linear optimization library.</description>
   <maintainer email="ceres-solver@googlegroups.com">
